@@ -1,6 +1,5 @@
-# python-projects
+# Python-projects
 
-# Project Name
 
 These are the projects of the udemy beginner course. 
 Feel free to study it yourself.
