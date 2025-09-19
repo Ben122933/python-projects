@@ -16,6 +16,7 @@ Feel free to study it yourself.
 - Word frequency counter
 - Chat bot
 
+## ALL CREDITS GO TO INDENTLY.IO
 ## 🛠️ Installation
 ```bash
 # Clone the repo if you want
