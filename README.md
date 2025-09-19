@@ -17,14 +17,6 @@ Feel free to study it yourself.
 - Chat bot
 
 ## ALL CREDITS GO TO INDENTLY.IO
-## 🛠️ Installation
-```bash
-# Clone the repo if you want
-git clone https://github.com/yourusername/project-name.git
-cd project-name
 
-# (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 
